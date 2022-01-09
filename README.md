@@ -12,7 +12,19 @@
 <!--
 **sinheeseung/sinheeseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+  <!-- <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sinheeseung&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinheeseung" alt="GitHub Stats" /> <br/> <br/>
+  
+</div>
 
+![My github status](https://github-readme-stats.vercel.app/api?username=Kei-Seo&show_icons=true&include_all_commits=true)
 
 
 Here are some ideas to get you started:
