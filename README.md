@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center">📚 Learning 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/R?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kaggle?style=flat-square&logo=Kaggle&logoColor=white"/></a>&nbsp
+</p>
+
 
 <!--
 **sinheeseung/sinheeseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
