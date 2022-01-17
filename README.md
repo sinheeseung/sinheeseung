@@ -10,8 +10,8 @@
 
 <h3 align="center">📚 Learning 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/R?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kaggle?style=flat-square&logo=Kaggle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kaggle-3766AB?style=flat-square&logo=Kaggle&logoColor=white"/></a>&nbsp
 </p>
 
 
