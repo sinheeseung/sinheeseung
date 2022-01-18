@@ -30,7 +30,5 @@
   
 </div>
 
-<p align="center">
-  ![My github status](https://github-readme-stats.vercel.app/api?username=sinheeseung&show_icons=true&include_all_commits=true)
-</p>
+![My github status](https://github-readme-stats.vercel.app/api?username=sinheeseung&show_icons=true&include_all_commits=true)
 
